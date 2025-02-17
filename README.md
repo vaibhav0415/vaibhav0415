@@ -33,10 +33,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 </div>
 
-## 🔥 Contributions:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhav0415&&show_icons=true&theme=dark)](https://git.io/streak-stats)
-
 ## ✨ Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhav0415&show_icons=true&theme=radical)
@@ -51,4 +47,4 @@
 
 ![snake gif](https://github.com/vaibhav0415/vaibhav0415/blob/output/snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=yashsingha99&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vaibhav0415&icon=5&color=1)](https://visitcount.itsvg.in)
